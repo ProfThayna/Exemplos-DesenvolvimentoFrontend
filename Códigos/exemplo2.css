@@ -1,0 +1,22 @@
+/* Selecionando elementos HTML */
+h1 {
+    color: blue;
+    font-size: 24px;
+  }
+  
+  /* Selecionando classes */
+  .texto-destaque {
+    background-color: yellow;
+    padding: 10px;
+  }
+  
+  /* Selecionando IDs */
+  #logo {
+    width: 200px;
+    height: 100px;
+  }
+  
+  /* Selecionando elementos por hierarquia */
+  div.container p {
+    font-style: italic;
+  }
